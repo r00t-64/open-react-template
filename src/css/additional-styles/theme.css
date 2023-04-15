@@ -7,6 +7,11 @@
     @apply ring-0;
 }
 
+/* FSAE link */
+.fsae-michigan-link {
+    color: #3dabff;
+}
+
 /* Hamburger button */
 .hamburger svg > *:nth-child(1),
 .hamburger svg > *:nth-child(2),

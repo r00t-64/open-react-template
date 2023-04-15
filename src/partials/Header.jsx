@@ -49,6 +49,9 @@ function Header() {
           <nav className="hidden md:flex md:grow">
 
             {/* Desktop sign in links */}
+            
+           {/* Temporary Deactivated*/}
+            {/* 
             <ul className="flex grow justify-end flex-wrap items-center">
               <li>
                 <Link to="/signin" className="font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out">Sign in</Link>
@@ -57,7 +60,7 @@ function Header() {
                 <Link to="/signup" className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3">Sign up</Link>
               </li>
             </ul>
-
+            */}
           </nav>
 
           {/* Mobile menu */}
